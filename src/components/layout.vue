@@ -28,6 +28,8 @@
 ],
 
 // ...</pre>
+If you are missing config/debugbar.php then run.<br>
+<pre>php artisan vendor:publish --provider="Barryvdh\Debugbar\ServiceProvider"</pre>
             `" />
         </div>
         <div class="flex flex-1 overflow-hidden bg-gray-50" v-else>
